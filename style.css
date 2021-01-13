@@ -47,6 +47,11 @@ ul {
     box-shadow: 5px 5px 3px #454f5270;
 }
 
+.container {
+    width: 900px;
+    margin: auto;
+}
+
 @media (max-width: 960px) {
     .container {
         width: 700px;
